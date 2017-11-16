@@ -1,2 +1,2 @@
 # FPDF-mysql-php
-imprecion con FPDF con datos desde mysql
+impresion con FPDF con datos desde mysql
